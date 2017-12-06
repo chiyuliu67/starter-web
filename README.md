@@ -20,5 +20,6 @@ Not worry about deployment for now.
 ## How to Contribute
 
 Just do it.
+Please fork this repository and then issue Pull Request for review
 
 COPYRIGHT LLIU
