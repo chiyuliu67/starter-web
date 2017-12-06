@@ -1,3 +1,4 @@
 toBeIgnored*
 *.log
 log/
+*.orig
