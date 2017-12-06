@@ -9,8 +9,14 @@ This is my Udemy Git learning project
 
 ## Purpose
 
-Sample website with plenty of files for demos
+The purpose of this project is for me to practice Git.
+
+Sample website with plenty of files for demos!
 
 ## Deployment
 
+Not worry about deployment for now.
+
 ## How to Contribute
+
+Just do it.
