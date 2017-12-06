@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Louis Liu	chiyuliu67@gmail.com @chiyuliu67
 
 # THANKS
 
