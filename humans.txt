@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    OMTF
 
 # TECHNOLOGY COLOPHON
 
