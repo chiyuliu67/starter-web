@@ -22,4 +22,6 @@ Not worry about deployment for now.
 Just do it.
 Please fork this repository and then issue Pull Request for review
 
-COPYRIGHT LLIU
+### Copyright
+
+COPYRIGHT LLIU, All rights reserved.
